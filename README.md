@@ -3,7 +3,7 @@ Generate and add headers in all request in Insomnia REST Client!
 
 ----
 
-Need to setup the enviremont with this information at:
+Need to setup the envirenmont with this information at:
 ```json
 {
   "ELEMENTAL_user": "admin",
@@ -44,5 +44,5 @@ Then you can create GET, POST, PUT, DELETE requests in Insomnia.
 
 ## TODO:
 
-* handling missing eviremont information.
+* handling missing evirenmont information.
 

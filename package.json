@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-elemental",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generate auths for Elemental rest interfaces, adding all headers in all requests.\nyou need to add ELEMENTAL_user,ELEMENTAL_key,ELEMENTAL_secs in envirenmont.",
   "main": "index.js",
   "insomnia": {
@@ -13,7 +13,9 @@
     "insomnia",
     "plugin",
     "custom",
-    "elemental"
+    "elemental",
+    "Elemental AWS",
+    "Aws"
   ],
   "author": "Marcello Romani",
   "license": "ISC",
