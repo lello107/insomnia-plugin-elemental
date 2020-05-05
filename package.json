@@ -1,11 +1,11 @@
 {
   "name": "insomnia-plugin-elemental",
   "version": "0.0.1",
-  "description": "Generate Auth for Elemental rest interfaces, return an arrya with [key, expire]",
+  "description": "Generate auths for Elemental rest interfaces, adding all headers in all requests.\nyou need to add ELEMENTAL_user,ELEMENTAL_key,ELEMENTAL_secs in enviremont.",
   "main": "index.js",
   "insomnia": {
-    "name": "elemental_v2",
-    "description": "Generate auth key,expires values in Insomnia"
+    "name": "elemental",
+    "description": "Generate auths for Elemental rest interfaces, adding all headers in all requests."
   },
   "repository": {
   },
