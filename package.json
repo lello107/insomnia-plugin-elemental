@@ -19,7 +19,7 @@
   "license": "ISC",
   "bugs": {
   },
-  "homepage": "",
+  "homepage": "https://github.com/lello107/insomnia-plugin-elemental",
   "dependencies": {
 	 "moment": "^2.23.0"
   },
