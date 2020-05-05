@@ -8,6 +8,8 @@ module.exports = function(context) {
   const url = context.request.getUrl()
   console.log('requested url: ' + url);
 
+  
+
   /*
   *  When authentication is enabled on the Elemental Live system, additional information must be sent with the REST command in order to properly authenticate the request. The following additional headers must be set: X-Auth-User, X-Auth-Expires, X-Auth-Key.
   *  The X-Auth-User header contains the login of the user to authenticate.

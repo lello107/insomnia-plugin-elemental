@@ -1,5 +1,5 @@
 {
-  "name": "insomnia-plugin-elemental_v2",
+  "name": "insomnia-plugin-elemental",
   "version": "0.0.1",
   "description": "Generate Auth for Elemental rest interfaces, return an arrya with [key, expire]",
   "main": "index.js",
