@@ -16,6 +16,8 @@ ELEMENTAL_user:
 
 ![find user and api key](/images/ELEMENTAL_key_01.png)
 
+Settings -> User Profiles 
+
 ![find user and api key](/images/ELEMENTAL_key_02.png)
 
 According with rest authentification of Elemental:
