@@ -1,6 +1,8 @@
 # insomnia-plugin-elemental
 Generate and add headers in all request in Insomnia REST Client!
 
+I tested it on Elemental Live | Version 2.9.3.41611, locally not on AWS.
+
 ----
 
 Need to setup the envirenmont with this information at:
@@ -19,6 +21,13 @@ ELEMENTAL_user:
 Settings -> User Profiles 
 
 ![find user and api key](/images/ELEMENTAL_key_02.png)
+
+View of Insomnia get live info call method GET
+
+![insomnia rest calls](/images/INSOMNIA_info.png)
+
+Web Services REST interface
+The Elemental Live system can be controlled through a REST interface over HTTP. A client program interacts with the server by sending HTTP GET, POST, PUT, or DELETE requests to resources on the server or server cluster. A wide range of available endpoints provide a simple interface to control and query all aspects of the Elemental system. Explore features of the REST API below.
 
 According with rest authentification of Elemental:
 
