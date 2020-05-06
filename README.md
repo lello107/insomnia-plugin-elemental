@@ -55,8 +55,6 @@ md5('1acpJN7oEDn3BDDYhQ' + md5('/live_events/1'+'admin'+'1acpJN7oEDn3BDDYhQ'+'13
 => '180c88df8d0d4182385f6eb7e7045a42'
 This is a single access request, it is not persisted. If another request needs to be made, the X-Auth-Key must be recalculated and all the headers must be set correctly.
 
-AuthCurl Scripts
-
 
 Then you can create GET, POST, PUT, DELETE requests in Insomnia.
 
