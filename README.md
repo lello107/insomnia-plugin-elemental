@@ -1,7 +1,11 @@
 # insomnia-plugin-elemental
 Generate and add headers in all request in Insomnia REST Client!
 
-I tested it on Elemental Live | Version 2.9.3.41611, locally not on AWS.
+I tested it on:
+- Elemental Live · Version 2.9.3.41611, locally not on AWS (SDI version).
+- AWS Elemental Live · Version 2.13.5.306726, locally not on AWS (SDI version).
+- AWS Elemental Live · Version 2.15.6.3013912, locally not on AWS (SDI version).
+
 
 ----
 
