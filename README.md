@@ -5,7 +5,7 @@ If plugin is enabled all requests automatically add this headers int the request
 ```js
 	'Content-Type', 'application/xml'
 	'Accept','application/xml'
- 	'X-Auth-User', @ELEMENTAL_user
+	'X-Auth-User', @ELEMENTAL_user
 	'X-Auth-Expires', @calculated_expire
 	'X-Auth-key', @calculated_key
 ```
