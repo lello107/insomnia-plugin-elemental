@@ -24,6 +24,10 @@ Settings -> User Profiles
 
 View of Insomnia get live info call method GET
 
+![insomnia envirenmont ](/images/INSOMNIA_envirenmont.png)
+
+example of GET http://elemental_ip/api/live_events:
+
 ![insomnia rest calls](/images/INSOMNIA_info.png)
 
 Web Services REST interface
