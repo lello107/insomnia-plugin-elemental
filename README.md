@@ -1,5 +1,14 @@
 # insomnia-plugin-elemental
 Generate and add headers in all request in Insomnia REST Client!
+If plugin is enabled all requests automatically add this headers int the request:
+
+```js
+	'Content-Type', 'application/xml'
+	'Accept','application/xml'
+ 	'X-Auth-User', @ELEMENTAL_user
+	'X-Auth-Expires', @calculated_expire
+	'X-Auth-key', @calculated_key
+```
 
 I tested it on:
 - Elemental Live · Version 2.9.3.41611, locally not on AWS (SDI version).
