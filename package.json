@@ -1,14 +1,13 @@
 {
   "name": "insomnia-plugin-elemental",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Generate auths for Elemental rest interfaces, adding all headers in all requests.",
   "main": "index.js",
   "insomnia": {
     "name": "elemental",
     "description": "Generate auths for Elemental rest interfaces, adding all headers in all requests."
   },
-  "repository": {
-  },
+  "repository": {},
   "keywords": [
     "insomnia",
     "plugin",
@@ -20,11 +19,10 @@
   ],
   "author": "Marcello Romani <illello107@gmail.com>",
   "license": "MIT",
-  "bugs": {
-  },
+  "bugs": {},
   "homepage": "https://github.com/lello107/insomnia-plugin-elemental",
   "dependencies": {
-	 "moment": "^2.23.0"
+    "moment": "^2.23.0"
   },
   "devDependencies": {
     "moment": "^2.23.0"
