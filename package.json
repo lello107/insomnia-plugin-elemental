@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-elemental",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Generate auths for Elemental rest interfaces, adding all headers in all requests.",
   "main": "index.js",
   "insomnia": {
