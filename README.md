@@ -12,6 +12,12 @@ Need to setup the envirenmont with this information at:
 }
 ```
 
+ELEMENTAL_user:
+
+![find user and api key](/images/ELEMENTAL_key_01.png)
+
+![find user and api key](/images/ELEMENTAL_key_02.png)
+
 According with rest authentification of Elemental:
 
 Authentication and REST
