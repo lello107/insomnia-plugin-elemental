@@ -1,6 +1,6 @@
 # insomnia-plugin-elemental
 Generate and add headers in all request in Insomnia REST Client!
-If plugin is enabled all requests automatically add this headers int the request:
+If plugin is enabled all requests automatically add this headers in all requests:
 
 ```js
 	'Content-Type', 'application/xml'
@@ -18,7 +18,7 @@ I tested it on:
 
 ----
 
-Need to setup the envirenmont with this information at:
+Need to setup the envirenmont with this information:
 ```json
 {
   "ELEMENTAL_user": "admin",
